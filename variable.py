@@ -79,3 +79,9 @@ def calculate_bmi(weight,height, *args):
 
 
 calculate_bmi(82, 1.62, 30, 27, 90)
+
+#%%
+#lambda function
+
+result2 = lambda x : x*x
+print(result2(3))
