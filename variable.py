@@ -49,6 +49,8 @@ round(float_num)
 str2 = "1003"
 int(str2)
 
+print(str2*3)
+
 #%%
 #user defined functions
 
